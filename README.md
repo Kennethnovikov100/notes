@@ -23,3 +23,10 @@ This quote highlights the ongoing challenge for programmers to create robust and
 
 # 2023-11-21
 - "Keep it simple, stupid!"
+
+# 2023-11-22
+- Today's programming wisdom is to be a lifelong learner. As technology continues to evolve at an unprecedented rate, it is crucial for programmers to constantly update their knowledge and skills. This means staying up-to-date with the latest trends and technologies, such as artificial intelligence, machine learning, and the internet of things.
+
+To be successful in the programming field, one must also have excellent communication and teamwork skills, as programming is a collaborative process. It is essential to effectively communicate with colleagues, clients,and other team members to ensure that the project is completed on time and within budget. Additionally, being able to break down complex problems into manageable tasks and prioritize tasks based on their importance and urgency is key. 
+ - 来自KnowYour
+ AI 的心智。
