@@ -30,3 +30,6 @@ This quote highlights the ongoing challenge for programmers to create robust and
 To be successful in the programming field, one must also have excellent communication and teamwork skills, as programming is a collaborative process. It is essential to effectively communicate with colleagues, clients,and other team members to ensure that the project is completed on time and within budget. Additionally, being able to break down complex problems into manageable tasks and prioritize tasks based on their importance and urgency is key. 
  - 来自KnowYour
  AI 的心智。
+
+# 2023-11-23
+- "Programming wisdom for today: Always write code as if the person who will maintain it is a violent psychopath who knows where you live." This quote by Martin Golding emphasizes the importance of writing clean, understandable, and well-documented code to make it easier for others (and your future self) to work with.
