@@ -134,3 +134,15 @@ This quote reminds us that optimizing code too early in the development process 
 
 # 2023-12-12
 - Today's programming wisdom is to prioritize readability and maintainability in your code. Writing clean, well-structured code that is easy to understand and modify will save time and headaches in the long run, especially when working on large projects or with multiple team members. This means using clear variable names, commenting your code effectively, and adhering to established coding conventions and best practices. Remember, code is read far more often than it is written, so make it easy for others (and your future self) to read and work with your code.
+
+# 2023-12-13
+- Today's programming wisdom is to always prioritize code readability and maintainability. This means writing concise, well-structured, and easy-to-understand code that can be easily modified and expanded upon as needed. To achieve this, follow these best practices:
+
+1. Use clear variable and function names that accurately represent their purpose.
+2. Organize code into logical sections and use comments to explain complex or important code. 
+3. Follow coding conventions and standards to ensure consistency and compatibility with other codebases.  
+4. Minimize the use of global variables and instead pass data as arguments where possible.   
+5. Avoid hardcoding values and prefer using constants or environment variables instead.    
+6. Utilize version control systems like Git to track code changes and collaborate with teammates.     
+7. Write tests and utilize unit testing frameworks to verify code functionality and ensure code quality.       
+8. Continuously learn and stay up-do-date with new programming languages, frameworks, libraries, tools, best-practices, etc. to improve your skills and knowledge.
