@@ -161,3 +161,8 @@ Use version control systems, such as Git, to keep track of your code and collabo
 - "Premature optimization is the root of all evil." - Donald Knuth
 
 Optimizing code too early in the development process can lead to unnecessary complexity and wasted time. It's better to write clean, simple code first and optimize only when necessary, based on profiling and measurement.
+
+# 2023-12-17
+- "Premature optimization is the root of all evil." - Donald Knuth
+
+Optimizing code before it's necessary can lead to overly complex and difficult-to-maintain code. It's better to write clean, simple code first and optimize only when profiling indicates that a particular section of code is causing performance issues.
