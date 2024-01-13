@@ -281,3 +281,12 @@ Remember to take breaks throughout the day to avoid burnout and maintain your fo
 
 # 2024-01-12
 - "Keep it simple, stupid!"
+
+# 2024-01-13
+- Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your coding endeavors.
+
+First, prioritize your tasks. When you're working on a project, there will always be multiple things that need to get done. By identifying which tasks are most important and which can wait, you can make sure that you focus on the right things at the Right time. Use a task management tool, such as Trello or Asana, to keep track of your work and make adjustments as needed. 
+ ---
+其次，明智地规划你的时间。当你在一个项目中工作时，你需要合理分配时间，以便在有限的时间内完成更多的任务。使用番茄工作法（Pomodoro Technique）或其他时间管理方法来帮助你更有效地安排时间. 这可以帮助你避免在项目后期感到压力，并确保你有足够的时间来处理任何意外情况。
+----
+最后，保持组织。一个干净、有组织的代码库可以帮助你在需要时快速找到代码，减少错误，提高效率。定期审查你的代码以确保其可读性和可维护性，使用版本控制系统（如Git）来跟踪更改并协作。通过保持组织和计划，你可以确保你的项目顺利进行，同时避免不必要的延误和挫折。
