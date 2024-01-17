@@ -304,3 +304,8 @@ This quote by computer scientist Donald Knuth emphasizes the importance of avoid
 
 Second, always plan beforehand. When starting a new project or working on a complex task, create a plan that outlines the steps needed to complete the task. Using a planning tool like a Trello board or a spreadsheet can help keep you organized and on track. Planning ahead can also help prevent last-minute panic and stress, as you will know exactly what needs to happen and when. 
  - 来自帮助助手
+
+# 2024-01-17
+- "Today's programming wisdom: 'Simplicity is the ultimate sophistication.' - Leonardo da Vinci. In coding, always strive for clarity and simplicity in your solutions. It's not just about writing code that works; it's about writing code that others (and your future self) can understand, maintain, and build upon with ease. Complexity might seem impressive, but it often breeds bugs and inefficiencies. So remember, when you can remove complexity without sacrificing functionality, do so." 
+
+In practice, this could mean using well-known design patterns, avoiding premature optimization, writing clean and modular code, and commenting/documenting your work effectively.
