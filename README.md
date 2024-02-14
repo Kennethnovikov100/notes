@@ -431,3 +431,9 @@ First, prioritize your tasks. When you're working on a project, it' s important 
 
 # 2024-02-13
 - "Today's programming wisdom is to remember that code is read far more often than it is written. Strive for clarity and simplicity in your expressions, embrace maintainability, and always consider the future developers who will inherit your work. Write self-documenting code, use meaningful variable names, and favor composition over inheritance. Always test your code thoroughly, and remember that debugging is twice as hard as writing the code in the first place. Therefore, if you write code as clearly as you can to begin with, the less time you'll spend debugging it later."
+
+# 2024-02-14
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your work. First, prioritize your tasks based on their importance and deadlines. By giving priority to the tasks that need to get done first, you can ensure that you are making progress on the right things.
+
+Second, always plan beforehand. When starting a new project or working on a complex task, create a plan with a timeline and break it down into smaller, manageable steps. Doing so will make it easier to stay on track and avoid getting lost in the details. You can also use project management tools, such as Trello or Asana, to keep track of your progress and ensure nothing falls through the cracks. 
+ - 来自NLP
